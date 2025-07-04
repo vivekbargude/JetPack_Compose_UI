@@ -110,21 +110,4 @@ fun ImageCard(
 
 ---
 
-## 💡 Tip
 
-To take a screenshot:
-
-1. Run the app on an emulator or device.
-2. Capture the screen using Android Studio or the device.
-3. Save the image to `/assets/image_card_output.png` and push it to your repo.
-
----
-
-✅ This example is great practice for combining layout, image manipulation, and design layering in Jetpack Compose.
-
-```
-
----
-
-Would you like me to generate the actual UI output image from this code using a mock image, or are you planning to add your real screenshot manually?
-```
