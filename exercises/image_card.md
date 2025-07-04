@@ -1,4 +1,3 @@
-Here’s a complete `ImageCard.md` file you can include in your Jetpack Compose UI learning repo. It explains the purpose of the code, shows usage, and includes a placeholder for an output image.
 
 ---
 
