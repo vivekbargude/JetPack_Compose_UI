@@ -106,8 +106,6 @@ fun ImageCard(
 
 ## 📷 Output Preview
 
-> Replace the image below with a real screenshot of your output after running the code in Android Studio.
-
 ![ImageCard Preview](../assets/image_card_output.png)
 
 ---
