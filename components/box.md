@@ -1,4 +1,4 @@
-# 🎁 Box Component
+### 📄 `Box.md`
 
 `Box` is a layout that stacks its children on top of each other. It's useful when you want to overlay elements.
 
