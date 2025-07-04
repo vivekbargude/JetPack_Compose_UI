@@ -1,8 +1,4 @@
 
----
-
-### 📄 `ImageCard.md`
-
 ````md
 # 🖼️ ImageCard Composable – Custom Card with Image and Gradient Overlay
 
