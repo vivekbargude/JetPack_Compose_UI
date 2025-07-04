@@ -60,9 +60,3 @@ fun PreviewCard() {
 }
 ```
 
-```
-
----
-
-Would you like me to proceed with the next ones: `Button`, `Image`, or `TextField`?
-```
