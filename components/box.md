@@ -2,9 +2,6 @@
 
 ### 📄 `Box.md`
 
-```md
-# 🎁 Box Component
-
 `Box` is a layout that stacks its children on top of each other.
 
 ---
