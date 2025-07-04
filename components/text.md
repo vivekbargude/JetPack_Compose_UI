@@ -1,4 +1,3 @@
-Great! Here are the markdown files for the following Jetpack Compose UI components: `Text`, `Row`, `Column`, `Card`, and `Box`. You can save each file under a `/components` folder in your GitHub repository.
 
 ---
 
